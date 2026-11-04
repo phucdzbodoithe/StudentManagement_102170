@@ -1,0 +1,4 @@
+Student ID: 102170
+Full Name: Nguyen Van Phuc
+Major: Software Engineering
+Project: Student Management System
