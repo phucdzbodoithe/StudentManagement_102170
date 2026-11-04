@@ -1,0 +1,3 @@
+SV001 - Nguyen Van An - Lap trinh Python - 8.5
+SV002 - Tran Van Binh - Lap trinh Java - 7.5
+SV003 - Le Thi Hoa - DevOps - 9.0
